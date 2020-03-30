@@ -1,9 +1,9 @@
 # 301-readings
-# Summary
-# 1.What is "Float"?
-# 2.Clearing the Float
-# 3.Techniques for Clearing Floats
-# 4.Flexible Layouts
+### Summary
+### 1.What is "Float"?
+### 2.Clearing the Float
+### 3.Techniques for Clearing Floats
+### 4.Flexible Layouts
 
 
 
