@@ -6,6 +6,7 @@ jQuery is a javaScript file that you include in your web pages.it let you find e
 
 
 ## 2. Syntax:
+
 |Syntax	|Description|	
 |-------|-----------|
 |$("*")	|Selects all elements|
@@ -20,3 +21,16 @@ jQuery is a javaScript file that you include in your web pages.it let you find e
 |$(":button")|	Selects all < button> elements and < input> elements of type="button"|
 |$("tr:even")|	Selects all even < tr> elements|
 |$("tr:odd")|Selects all odd < tr> elements|
+
+## 3. jQuery Methods :
+
+jQuery provides various methods for different tasks e.g. manipulate DOM, events etc. The following table lists exemples and categories of methods.
+
+|Category| Methods|
+|--------|--------|
+|DOM Manipulation|after(),append(),attr(),before(),|
+|Traversing|children(),closest(),each(),first(),next(),filter()|
+|CSS|addClass(),css(),hasClass(),removeClass(),toggleClass()|
+|Attributes|attr(),html(),removeAttr(),prop(),val(),|
+|Events|bind(),blur(),change(),click(),dblclick(),focus(),|
+|Dimensions|height(),width(),innerHeight(),innerWidth(),|
