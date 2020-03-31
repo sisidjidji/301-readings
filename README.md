@@ -6,6 +6,7 @@ my name is SIHEM , i am 35 years old, a mom of two kids LOUISA and RAMZI,i studi
 Below are the links to all the learning journals:
 
 * [READ01:SMACSS and Responsive Web Design](https://github.com/sisidjidji/301-readings/blob/master/README1.md) .
+* [READ01:jQuery](https://github.com/sisidjidji/301-readings/blob/master/README2.MD) .
 
 ## Cheat Sheet EMOJI
 

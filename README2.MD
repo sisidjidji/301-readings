@@ -19,4 +19,4 @@ jQuery is a javaScript file that you include in your web pages.it let you find e
 |$("a[ target!='_blank']")|	Selects all < a> elements with a target attribute value NOT equal to "_blank"|	
 |$(":button")|	Selects all < button> elements and < input> elements of type="button"|
 |$("tr:even")|	Selects all even < tr> elements|
-|$("tr:odd")|	|Selects all odd < tr> elements|
+|$("tr:odd")|Selects all odd < tr> elements|
