@@ -8,7 +8,7 @@ Below are the links to all the learning journals:
 * [READ01:SMACSS and Responsive Web Design](https://github.com/sisidjidji/301-readings/blob/master/README1.md) .
 * [READ02:jQuery](https://github.com/sisidjidji/301-readings/blob/master/README2.MD) .
 * [READ03:flexbox](https://github.com/sisidjidji/301-readings/blob/master/README3.MD) .
-* [READ04:Grid](https://github.com/sisidjidji/301-readings/blob/master/README3.MD) .
+* [READ04:Grid](https://github.com/sisidjidji/301-readings/blob/master/README4.MD) .
 
 
 ## Cheat Sheet EMOJI
