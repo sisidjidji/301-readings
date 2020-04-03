@@ -1,6 +1,6 @@
 # READ5
 
-# Huruku:
+# Heroku:
 
 to run our web server WITH HEROKU we need to follow those steps :
 
