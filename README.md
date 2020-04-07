@@ -11,6 +11,7 @@ Below are the links to all the learning journals:
 * [READ04:Grid](https://github.com/sisidjidji/301-readings/blob/master/README4.MD) .
 * [READ05:heroku](https://github.com/sisidjidji/301-readings/blob/master/README5.MD) .
 * [READ06:node.js](https://github.com/sisidjidji/301-readings/blob/master/README6.MD) .
+* [READ06:API's](https://github.com/sisidjidji/301-readings/blob/master/README7.MD) .
 
 
 ## Cheat Sheet EMOJI
