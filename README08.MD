@@ -1,5 +1,8 @@
 # Read08
 
+## what is sql :
+Structured Query Language is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables.
+
  ## 1.Database Manipulation:
 
  - CREATE DATABASE database_name	 .... Create a database	
@@ -22,17 +25,17 @@
 ## 3.Index Manipulation
 
 - INSERT INTO table_name
-VALUES (value_1, value_2,....)	                       Insert new rows into a table.
+VALUES (value_1, value_2,....)  ........  Insert new rows into a table.
 
 - INSERT INTO table_name (column1, column2,...)
 VALUES (value_1, value_2,....)
 
 - UPDATE table_name
 SET column_name_1 = new_value_1, column_name_2 = new_value_2
-WHERE column_name = some_value	                                             Update one or several columns in rows.
+WHERE column_name = some_value	  ......   Update one or several columns in rows.
 
 - DELETE FROM table_name
-WHERE column_name = some_value	                                Delete rows in a table.
+WHERE column_name = some_value	      ..............    Delete rows in a table.
 
 
 - TRUNCATE TABLE table_name	      Deletes the data inside the table.
