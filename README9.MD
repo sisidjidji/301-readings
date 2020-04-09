@@ -8,8 +8,8 @@ Functional programming is a programming paradigm — a style of building the str
 
 - how do we know if a function is pure or not? Here is a very strict definition of purity:
 
-* It returns the same result if given the same arguments (it is also referred as deterministic)
-* It does not cause any observable side effects
+1. It returns the same result if given the same arguments (it is also referred as deterministic)
+2. It does not cause any observable side effects
 
 
 - If our function reads external files, it’s not a pure function — the file’s contents can change.
