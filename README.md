@@ -12,7 +12,8 @@ Below are the links to all the learning journals:
 * [READ05:heroku](https://github.com/sisidjidji/301-readings/blob/master/README5.MD) .
 * [READ06:node.js](https://github.com/sisidjidji/301-readings/blob/master/README6.MD) .
 * [READ07:API's](https://github.com/sisidjidji/301-readings/blob/master/README7.MD) .
-* [READ08:SQL](https://github.com/sisidjidji/301-readings/blob/master/README7.MD) .
+* [READ08:SQL](https://github.com/sisidjidji/301-readings/blob/master/README8.MD) .
+* [READ09:Refactoring](https://github.com/sisidjidji/301-readings/blob/master/README9.MD) .
 
 
 ## Cheat Sheet EMOJI
