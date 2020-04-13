@@ -15,6 +15,7 @@ Below are the links to all the learning journals:
 * [READ08:SQL](https://github.com/sisidjidji/301-readings/blob/master/README8.MD) .
 * [READ09:Refactoring](https://github.com/sisidjidji/301-readings/blob/master/README9.MD) .
 * [READ010:Refactoring](https://github.com/sisidjidji/301-readings/blob/master/README10.MD) .
+* [READ011:EJS](https://github.com/sisidjidji/301-readings/blob/master/README11.MD) .
 
 
 ## Cheat Sheet EMOJI
