@@ -17,6 +17,7 @@ Below are the links to all the learning journals:
 * [READ010:Refactoring](https://github.com/sisidjidji/301-readings/blob/master/README10.MD) .
 * [READ011:EJS](https://github.com/sisidjidji/301-readings/blob/master/README11.MD) .
 * [READ012:EJS partial](https://github.com/sisidjidji/301-readings/blob/master/README12.MD) .
+* [READ013:Update/Delete](https://github.com/sisidjidji/301-readings/blob/master/README13.MD) .
 
 
 ## Cheat Sheet EMOJI
