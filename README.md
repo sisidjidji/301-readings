@@ -18,6 +18,7 @@ Below are the links to all the learning journals:
 * [READ011:EJS](https://github.com/sisidjidji/301-readings/blob/master/README11.MD) .
 * [READ012:EJS partial](https://github.com/sisidjidji/301-readings/blob/master/README12.MD) .
 * [READ013:Update/Delete](https://github.com/sisidjidji/301-readings/blob/master/README13.MD) .
+* [READ014:DB Normalization](https://github.com/sisidjidji/301-readings/blob/master/README14.MD) .
 
 
 ## Cheat Sheet EMOJI
